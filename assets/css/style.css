@@ -1,11 +1,4 @@
-/*
-Template Name: Kiddino
-Template URL: https://html.vecurosoft.com/kiddino
-Description: Kiddino - Children School & Kindergarten HTML Template
-Author: Vecuro
-Author URI: https://themeforest.net/user/vecuro_themes
-Version: 1.0.0
-*/
+
 /*=================================
     CSS Index Here
 ==================================*/
@@ -79,18 +72,18 @@ Version: 1.0.0
 /*------------------- 1.3. Variable-------------------*/
 :root {
   --body-bg: #ffffff;
-  --theme-color: #E8063C;
-  --theme-color2: #FFD600;
-  --title-color: #000000;
+  --theme-color: #d5af36;
+  --theme-color2: #158f80;
+  --title-color: #0c3b2e;
   --body-color: #444444;
-  --vs-secondary-color: #490D59;
+  --vs-secondary-color: #0c3b2e;
   --smoke-color: #F0F6FA;
   --light-color: #f8f9fa;
-  --black-color: #000000;
+  --black-color: #0c3b2e;
   --white-color: #ffffff;
-  --yellow-color: #fec624;
-  --success-color: #28a745;
-  --error-color: #dc3545;
+  --yellow-color: #d5af36;
+  --success-color: #158f80;
+  --error-color: #0c3b2e;
   --border-color: #E0E0E0;
   --title-font: "Fredoka", sans-serif;
   --body-font: "Jost", sans-serif;
@@ -4121,7 +4114,7 @@ a.text-theme:hover,
 .footer-layout1 .countdown-style1,
 .footer-layout1 .vs-social,
 .footer-layout1 .vs-btn {
-  --title-color: #000;
+  --title-color: #fff;
 }
 
 .footer-layout1 .footer-top {
@@ -8329,7 +8322,7 @@ body.layout5 .slick-dots li.slick-active button {
     padding: 10px 10px;
     border-radius: 10px;
   }
-  .countdown-style1 li span {
+  . li span {
     font-size: 22px;
   }
 }
